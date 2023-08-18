@@ -32,7 +32,7 @@ Eniac should:
 
 ## How to Run
 
-Access the Notebook: Click on [this link]([url](https://colab.research.google.com/drive/1Tlu5__b2MbGNfNI1AsVV74pPcLtbiAD4?usp=sharing)) to open the notebook in Google Colab.
+Open the notebook in Google Colab.
 
 Google Account: Ensure you're logged in with a Google account. Google Colab requires a Google account for access.
 
